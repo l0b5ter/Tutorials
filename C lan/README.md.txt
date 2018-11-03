@@ -1,0 +1,1 @@
+The following are scripts made in C, these need a mbed to work. Like LCP1978, but raspberry or arduino works too
